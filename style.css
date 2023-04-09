@@ -36,6 +36,7 @@
 
 .menu.active {
   display:flex;
+  background:#fff;
 }
 
 .showcase.active {
